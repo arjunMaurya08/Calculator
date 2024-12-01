@@ -26,7 +26,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/arjunmaurya08/calculator-ui.git
+    git clone https://github.com/arjunmaurya08/calculator.git
     ```
 2. Install NPM packages
     ```sh
